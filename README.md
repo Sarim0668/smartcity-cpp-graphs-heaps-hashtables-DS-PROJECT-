@@ -40,8 +40,7 @@ discovery, real-time analytics, and sector-wise connectivity.
 • Public Facilities: routing, filtering
 Transport Simulation - Queues, Linked Lists, Pathfinding
 
-<img width="1024" height="1024" alt="example" src="https://github.com/user-attachments/assets/7a7a797d-eaaa-4e89-97e7-e84478afcb3a" />
-<img width="1024" height="1024" alt="example" src="https://github.com/user-attachments/assets/0da50fe0-9080-4142-91aa-e1dcaab362a6" />
+<img width="611" height="638" alt="edu2" src="https://github.com/user-attachments/assets/81fd4cc0-f8f1-49f6-b91e-e9fa1c961eb5" />
 
 
 ----------------------------------------
@@ -61,10 +60,6 @@ Graph-based routing, hash tables, priority queues, trees, stacks & queues.
 • Priority Queues – Hospital & school ranking
 overview • Stacks – Route history
 • Queues – Management of passengers
-
-<img width="1024" height="1024" alt="example" src="https://github.com/user-attachments/assets/8f0d4178-051f-4592-964e-84af1ff0efee" />
-<img width="1024" height="1024" alt="example" src="https://github.com/user-attachments/assets/aeea2a4d-86f6-4b51-9bca-a98cdbb9b96f" />
-
 
 ----------------------------------------
 5. FILE STRUCTURE
@@ -90,6 +85,7 @@ _________________________
 Transport, Education, Medical, Commercial, Public Facilities, Population analytics.
 <img width="465" height="267" alt="menu1" src="https://github.com/user-attachments/assets/826d6269-c338-491c-94c8-08ad9bbb8012" />
 <img width="661" height="568" alt="tran2" src="https://github.com/user-attachments/assets/7c45ff3c-f52d-475c-b242-0e6d96d230f0" />
+<img width="387" height="425" alt="tranMenu" src="https://github.com/user-attachments/assets/29ddefd0-7280-41a1-906b-be7beba785f1" />
 
 
 ----------------------------------------
